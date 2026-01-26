@@ -18,7 +18,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "minimist": "^1.2.8",
-    "prettyjson": "^1.2.5"
+    "chalk": "^4.1.2",
+    "minimist": "^1.2.8"
   }
 }
