@@ -5,6 +5,12 @@ This is a simple node package I have published to npm. All code was written in J
 Simply open any terminal and run:
 
 ```bash
+npx kayroye [-j]
+```
+
+Or,
+
+```bash
 npx @kayroye/kayroye [-j]
 ```
 
