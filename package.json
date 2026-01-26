@@ -1,5 +1,5 @@
 {
-  "name": "kayroye",
+  "name": "@kayroye/kayroye",
   "version": "2.0.1",
   "description": "A business card for Kalan Roye - last updated 2025-03-05",
   "main": "index.js",
@@ -10,6 +10,13 @@
   "author": "kayroye",
   "license": "ISC",
   "bin": "./cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayroye/npx-business-card.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "minimist": "^1.2.8",
     "prettyjson": "^1.2.5"
