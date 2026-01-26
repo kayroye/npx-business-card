@@ -1,6 +1,6 @@
 {
   "name": "@kayroye/kayroye",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A business card for Kalan Roye - last updated 2025-03-05",
   "main": "index.js",
   "scripts": {
