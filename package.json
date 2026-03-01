@@ -9,10 +9,12 @@
   "keywords": [],
   "author": "kayroye",
   "license": "ISC",
-  "bin": "./cli.js",
+  "bin": {
+    "kayroye": "cli.js"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayroye/npx-business-card.git"
+    "url": "git+https://github.com/kayroye/npx-business-card.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
